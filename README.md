@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --!>
 🔭 I’m currently working on Artificial Intelligence  🌈 ☀️<br>
-
+<br>
 🌱  I’m learning large models like DeepSeek to apply them in the industrial field. 🌴<br>
-
+<br>
 @ me by email at 15265202881@163.com 📬<br>
-
+<br>
 I love 🍕 and 🐱 <br>
+<br>
+<br>
+<br>
