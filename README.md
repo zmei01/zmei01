@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/c3c25d12-ba47-4971-ba99-50cddc57e958)## Hi there 👋
 
 <!--
 **zmei01/zmei01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![打招呼的表情包](https://example.com/hello-sticker.png)
+loves 🍕 and 🐕
