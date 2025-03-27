@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-🔭 I’m currently working on Artificial Intelligence  🌈 ☀️
-<!--
---!>
+🔭 I’m currently working on Artificial Intelligence  🌈 ☀️<br>
 
+🌱  I’m learning large models like DeepSeek to apply them in the industrial field. 🌴<br>
 
-🌱  I’m learning large models like DeepSeek to apply them in the industrial field. 🌴
+@ me by email at 15265202881@163.com 📬<br>
 
-@ me by email at 15265202881@163.com 📬
-
-I love 🍕 and 🐱 
+I love 🍕 and 🐱 <br>
