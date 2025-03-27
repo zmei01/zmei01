@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🔭 I’m currently working on Artificial Intelligence  🌈 ☀️
 
-![打招呼的表情包](https://example.com/hello-sticker.png)
-loves 🍕 and 🐕
+🌱  I’m learning large models like DeepSeek to apply them in the industrial field. 🌴
+
+@ me by email at 15265202881@163.com 📬
+
+I love 🍕 and 🐱 
