@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --!>
 🔭 I’m currently working on Artificial Intelligence  🌈 ☀️
+<!--
+--!>
+
 
 🌱  I’m learning large models like DeepSeek to apply them in the industrial field. 🌴
 
